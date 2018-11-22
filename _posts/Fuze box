@@ -1,5 +1,5 @@
 ---
-title: Trying out the fuze box.
+title: Robotic Arms
 layout: post
 author: scott.gildersleve
 permalink: /trying-out-lightbot/
@@ -11,9 +11,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Messing around and getting used to the fuse boxes.</td>
+    <td>Coding robotic arms week 1</td>
     <td>Date</td>
-    <td>25/9/18</td>
+    <td>15/11/18</td>
   </tr>
 </table>
 
@@ -21,11 +21,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>We had to figure out for ourselves how to plug in the box.</td>
+    <td>Setting up the fuze boxes and moving the parts 1 by 1.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Get used to the functions and coding of the box.</td>
+    <td>Make your robotic arm move back to its starting position</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
@@ -72,7 +72,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I need to change the way I stretch myself in the fuze box book.</td>
+    <td>I need to change the way I stretch myself in the fuze box book for example I could of stretched myself to try and make it move when I pressed the arrow keys or numbers.</td>
     <td></td>
   </tr>
 </table>
